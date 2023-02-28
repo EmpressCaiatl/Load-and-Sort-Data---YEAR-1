@@ -1,0 +1,6 @@
+For the list of 1 million:
+it took approx >30 minutes to complete.
+
+List of 500 took 8.099s
+List of 1000 took 10.577s
+List of 5000 took approx >5m2.424s
