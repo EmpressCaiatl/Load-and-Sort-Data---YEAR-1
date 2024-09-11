@@ -1,4 +1,4 @@
-//Isabella Maffeo
+//Isabella
 //FALL 2020 - December 12
 
 #include <iostream>
